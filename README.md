@@ -4,9 +4,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aks_gohil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter-username" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/akshaygohil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-link" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4624866/akshay-gohil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack-id" height="30" width="40" /></a>
+<a href="https://twitter.com/aks_gohil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter-username" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshaygohil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-link" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4624866/akshay-gohil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack-id" height="30" width="40" /></a>
 </p>
 <br/>
 
